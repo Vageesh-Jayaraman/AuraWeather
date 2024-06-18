@@ -2,7 +2,7 @@ import 'package:http/http.dart' as http;
 import 'location.dart';
 import 'dart:convert';
 
-String API_key = '8c09fb2aa6bac81c627ef075af2e1bfd';
+String API_key = API_KEY;
 
 class WeatherUpdate {
   String weatherMain;
