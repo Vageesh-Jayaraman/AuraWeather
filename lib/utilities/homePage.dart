@@ -15,15 +15,15 @@ class HomePage extends StatelessWidget {
                 decoration: BoxDecoration(
                   shape: BoxShape.circle,
                   border: Border.all(
-                    color: Colors.yellowAccent, // Change border color as needed
-                    width: 1, // Change border width as needed
+                    color: Colors.yellowAccent, 
+                    width: 1, 
                   ),
                 ),
                 child: ClipOval(
                   child: Image.asset(
                     'assets/homeScreen/logo.png',
                     width: 300,
-                    fit: BoxFit.cover, // Ensure the image covers the entire circle
+                    fit: BoxFit.cover, 
                   ),
                 ),
               ),
