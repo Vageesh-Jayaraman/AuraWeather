@@ -18,7 +18,7 @@ class _WeatherMapState extends State<WeatherMap> {
   void initState() {
     super.initState();
 
-    // Initialize platform-specific WebView implementations
+    
     if (WebViewPlatform.instance == null) {
       if (defaultTargetPlatform == TargetPlatform.android) {
         WebViewPlatform.instance = AndroidWebViewPlatform();
