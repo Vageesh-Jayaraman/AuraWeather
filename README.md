@@ -13,10 +13,15 @@ AuraWeather is a modern and intuitive weather application built using Flutter. I
 
 ## 📸 Screenshots
 
-<!-- Placeholder for screenshots -->
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
-![Screenshot 3](path/to/screenshot3.png)
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
+        <img src="Screenshots/Screenshot_20240618_123024.png" alt="Screenshot 1" style="width: 16%;">
+        <img src="Screenshots/Screenshot_20240618_123135.png" alt="Screenshot 2" style="width: 16%;">
+        <img src="Screenshots/Screenshot_20240618_123153.png" alt="Screenshot 3" style="width: 16%;">
+        <img src="Screenshots/Screenshot_20240618_123305.png" alt="Screenshot 4" style="width: 16%;">
+        <img src="Screenshots/Screenshot_20240618_123428.png" alt="Screenshot 5" style="width: 16%;">
+        <img src="Screenshots/Screenshot_20240618_123453.png" alt="Screenshot 6" style="width: 16%;">
+</div>
+
 
 ## 📥 Installation
 To use AuraWeather on your Android device, download the latest APK from the link below:
