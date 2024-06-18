@@ -11,7 +11,7 @@ Container getTemperature({required int temperature}) {
     alignment: Alignment.topRight,
     padding: EdgeInsets.fromLTRB(0, 10, 20, 0),
     child: Text(
-      '${temperature - 273}°C', // Convert from Kelvin to Celsius
+      '${temperature - 273}°C', 
       style: const TextStyle(
         fontFamily: 'Mulish',
         color: Colors.black,
