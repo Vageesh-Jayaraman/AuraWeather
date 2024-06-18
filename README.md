@@ -26,7 +26,7 @@ AuraWeather is a modern and intuitive weather application built using Flutter. I
 ## 📥 Installation
 To use AuraWeather on your Android device, download the latest APK from the link below:
 
-[![Download APK](https://img.shields.io/badge/Download%20APK-AuraWeather-brightgreen)](path/to/your/apk/file.apk)
+[![Download APK](https://img.shields.io/badge/Download%20APK-AuraWeather-brightgreen)](auraweather.apk)
 
 ## 🌐 APIs Used
 
