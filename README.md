@@ -32,4 +32,6 @@ To use AuraWeather on your Android device, download the latest APK from the link
 
 - **OpenWeatherMap API** <img src="https://openweathermap.org/themes/openweathermap/assets/img/mobile_app/android-app-top-banner.png" alt="OpenWeatherMap Logo" width="30">: Utilized for fetching 5 Day / 3 Hour weather forecasts.
 - **WebView Widget**: For rendering a global map of wind, weather, and ocean conditions.
+- **Geolocator Package**: Used for retrieving the user's current location to provide localized weather information.
+
 
